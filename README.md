@@ -22,14 +22,14 @@ Before running this script, ensure you have the following installed:
 
 ## Usage
 
-1. Save the script to a file, e.g., `setup_project.sh`.
+1. Save the script to a file, e.g., `vft-project-setup.sh`.
 2. Make the script executable:
    ```
-   chmod +x setup_project.sh
+   chmod +x vft-project-setup.s
    ```
 3. Run the script:
    ```
-   ./setup_project.sh
+   ./vft-project-setup.sh
    ```
 4. Follow the prompts to enter your project name and location.
 
